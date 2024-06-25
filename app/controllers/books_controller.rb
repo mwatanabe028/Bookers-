@@ -1,7 +1,13 @@
 class BooksController < ApplicationController
+  def top
+  end
+
+  def about
+  end
+
   def new
   end
-  
+
   def edit
   end
 
@@ -10,14 +16,14 @@ class BooksController < ApplicationController
 
   def show
   end
-  
+
   def create
   end
-  
+
   def update
   end
-  
+
   def destroy
-    
+  end
 
 end
