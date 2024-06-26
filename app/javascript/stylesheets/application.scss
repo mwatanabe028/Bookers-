@@ -1,1 +1,11 @@
-@use '~bootstrap/scss/bootstrap';
+@import '~bootstrap/scss/bootstrap';
+
+h1{
+  font-size: 2.5rem;
+}
+
+p {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
